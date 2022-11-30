@@ -1,0 +1,121 @@
+
+
+body {
+	font-family: 'Josefin Sans', sans-serif;
+}
+a.logo img {
+	width: 120px;
+	height: auto;
+}
+.navbar-nav {
+	font-family: 'Cormorant Garamond', serif;
+	font-size: 20px;
+	font-weight: 600;
+    margin-left: 400px;
+}
+.dropdown-item {
+	font-family: 'Cormorant Garamond', serif;
+	font-size: 20px;
+	font-weight: 600 !important;
+}
+.dropdown-menu {
+	border-radius: 0;
+}
+.dropdown-toggle::after {
+    vertical-align: 0.12em;
+}
+
+
+.carousel-caption h5 {
+	font-family: 'Cormorant Garamond', serif;
+	font-size: 36px;
+}
+.bg-wrapper {
+	background-color: #000;
+}
+.btn {
+	font-size: 10px;
+	padding: 10px 20px;
+	font-weight: 700;
+	letter-spacing: 1px;
+	border-radius: 0;
+	height: 100%;
+	text-transform:uppercase;
+}
+.navbar-toggler{
+outline:none !important;	
+}
+.social-icon {
+	margin-top: 20px;
+}
+.social-icon ul {
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+}
+.social-icon ul li {
+	display: inline;
+	float: left;
+	padding-right: 25px;
+}
+.social-icon ul li a {
+	display: inline-block;
+	color: #000;
+	font-size: 30px;
+	text-decoration: none;
+	transition: all 0.3s ease;
+}
+.social-icon ul li a:hover {
+	color: #ddd;
+}
+.nav-tabs {
+	border: 0;
+}
+.nav-tabs .nav-item {
+	border: 1px solid #ebebeb;
+	font-size: 14px;
+	letter-spacing: 1px;
+	font-weight: 700;
+	margin-right: 10px;
+	border-radius: 0;
+}
+.nav-link {
+	color: #000;
+	font-family: 'Cormorant Garamond', serif;
+}
+.nav-link:hover {
+	color: #666;
+}
+.nav-tabs .nav-link.active, .nav-tabs .nav-item.show .nav-link {
+	border: 0;
+	background-color: #000;
+	color: #fff;
+	border-radius: 0;
+}
+
+
+    .container {
+        width: 100%;
+        padding-right: 15px;
+        padding-left: 15px;
+        margin-right: auto;
+        margin-left: auto;
+        font-family: 'Josefin Sans', sans-serif;
+      
+    }
+    .dd2 {
+        font-family: 'Cormorant Garamond', serif;
+        font-size: 36px;
+        letter-spacing: 1px;
+        line-height: 50px;
+      
+    }
+   
+  
+
+
+
+
+
+
+
